@@ -1,0 +1,27 @@
+[
+  {
+    "venue": "Registration",
+    "waiting": 10,
+    "served": 30
+  },
+  {
+    "venue": "Nursing",
+    "waiting": 5,
+    "served": 9
+  },
+  {
+    "venue": "Physician",
+    "waiting": 7,
+    "served": 3
+  },
+  {
+    "venue": "Lab",
+    "waiting": 27,
+    "served": 80
+  },
+  {
+    "venue": "Pharmacy",
+    "waiting": 6,
+    "served": 45
+  }
+]
